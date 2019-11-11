@@ -1,8 +1,16 @@
-.NavBar_Wrapper {
-    background-color: #CBECF1;
-    top: 0;
-    position: fixed;
-    width: 100%;
+p {
+    padding-left: 5%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 400;
 }
 
 .dynamicblog_body--wrapper {
@@ -11,6 +19,18 @@
     padding: 16px;
 }
 
-p {
-    padding-left: 5%;
+.dynamicblog_logo--wrapper {
+    font-family: 'Menlo', monospace;
+    font-weight: 500;
+    height: 2.5rem;
+    position: absolute;
+    right: 125px;
+    top: 3px;
+}
+
+.dynamicblog_NavBar_Wrapper {
+    background-color: #CBECF1;
+    top: 0;
+    position: fixed;
+    width: 100%;
 }
