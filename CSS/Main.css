@@ -13,6 +13,24 @@ h1 {
     font-weight: 400;
 }
 
+.dynamic__header--color {
+    background-color: #CBECF1;
+}
+
+.dynamic-icon--links {
+    font-size: 22;
+    line-height: 22px;
+    margin: 10px;
+}
+
+.dynamic-icon--linkedin {
+    color: #2867B2;
+}
+
+.dynamic_icon--twitter {
+    color: #1dcaff;
+}
+
 .dynamicblog_body--wrapper {
     margin-top: 100px;
     height: 1500px;
@@ -29,7 +47,6 @@ h1 {
 }
 
 .dynamicblog_NavBar_Wrapper {
-    background-color: #CBECF1;
     top: 0;
     position: fixed;
     width: 100%;
