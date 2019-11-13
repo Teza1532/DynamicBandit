@@ -1,11 +1,7 @@
 p {
     padding-left: 5%;
     font-family: 'Open Sans', sans-serif;
-
-}
-
-a {
-    color: black;
+    line-height: 1.5em;
 }
 
 h1 {
@@ -51,3 +47,19 @@ h1 {
     position: fixed;
     width: 100%;
 }
+
+.dynamicbandic_Project--header{
+    color:black;
+}
+
+.dynamicbandic_Project--project {
+    min-height: 150px;
+}
+
+.nav-link {
+    color:black;
+}
+
+.right {
+    float: right;
+} 
